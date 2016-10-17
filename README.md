@@ -1,6 +1,5 @@
 # assembla
 
-## あ
 ``./aaa.sh
 test.txt``
 
