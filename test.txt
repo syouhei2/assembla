@@ -1,7 +1,0 @@
-test:
-add %r1 %r2 %r3
-nop
-aaa:
-addi %r30 %r4 $1555
-sub %r4 %r5 %r6
-j aaa
